@@ -1,1 +1,1 @@
-# .github
+# DSC KIIT
