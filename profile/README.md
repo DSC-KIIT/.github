@@ -1,1 +1,1 @@
-# DSC KIIT
+# GDSC KIIT
