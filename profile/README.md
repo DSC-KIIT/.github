@@ -6,6 +6,10 @@ Our goal is to build an inclusive community of students who want to learn about 
 
 ## Get Involved
 
+![GitHub followers](https://img.shields.io/github/followers/GDSC-KIIT?style=social)
+![GitHub Org's stars](https://img.shields.io/github/stars/GDSC-KIIT?style=social)
+
+
 Our community is working on building some amazing projects together, and there are excellent "good first issue" opportunities, if you're looking to get involved. Feel free to contribute to any of our repositories. Check them out [here](https://github.com/orgs/GDSC-KIIT/repositories).
 
 Visit [dsckiit.in](https://dsckiit.in) to learn more about us!
