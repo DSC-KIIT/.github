@@ -19,4 +19,4 @@ Visit [dsckiit.in](https://dsckiit.in) to learn more about us!
 
 ----
 
-GDSC-KIIT projects adopt the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html). For more information see the [Code of Conduct FAQ](https://www.contributor-covenant.org/faq).
+GDSC KIIT projects adopt the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html). For more information see the [Code of Conduct FAQ](https://www.contributor-covenant.org/faq).
