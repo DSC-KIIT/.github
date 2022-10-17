@@ -1,5 +1,8 @@
 # GDSC KIIT
 
+![image](https://user-images.githubusercontent.com/91965754/196185396-fb4a5069-2d88-497e-b23d-d6d58dd6818b.png)
+
+
 Google Developer Student Clubs KIIT is a technical club focused on building a community of student developers interested in solving real-world problems. We host various workshops and hackathons. We also host flagship events from Google such as Android Study Jams, 30 days of Google Cloud, ExploreML etc.
 
 Our goal is to build an inclusive community of students who want to learn about tech and grow together.
